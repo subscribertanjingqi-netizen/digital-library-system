@@ -2,3 +2,4 @@
 1.User can search for book by title.
 2.User can borrow a book for up to 14 days.
 3.Admin can add new books to the catalog.
+4.User can read digital E-books online.
